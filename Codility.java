@@ -1,5 +1,9 @@
 package Week04HomeWork;
 
+/**
+* This is the home work test done by Merfu, looks very good.
+*/
+
 public class CodilityTester {
 
 	public static void main(String[] args) {
